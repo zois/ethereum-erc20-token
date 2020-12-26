@@ -1,0 +1,15 @@
+{
+  "name": "ethereum-erc20-token",
+  "version": "1.0.0",
+  "description": "Smart Contract API",
+  "main": "index.js",
+  "author": "zois avgerinos",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^4.0.47",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "13.x"
+  }
+}
